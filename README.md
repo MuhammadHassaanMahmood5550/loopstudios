@@ -1,0 +1,2 @@
+# loopstudios
+static website
